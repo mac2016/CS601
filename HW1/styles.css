@@ -1,0 +1,30 @@
+li {
+	width: 50%;
+}
+
+body {
+	color: white;
+	padding-left: 1em;
+	font-family: 'Inconsolata', monospace;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+p {
+	font-weight: bold;
+}
+
+html {
+	background: gray;
+}
+
+a {
+	color: white;
+}
+
+a:hover {
+	color: black;
+}
